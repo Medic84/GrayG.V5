@@ -9,4 +9,5 @@
 <color name="v5_text_color_disable_light" package="miui">#ffcccccc</color>
 <color name="contact_photo_view_gradient_color0">#ff82ac00</color>
 <color name="high_light_text">#ff8cc63c</color>
+<dimen name="dialer_buttons_height">270dp</dimen>
 </MIUI_Theme_Values>
